@@ -1,4 +1,5 @@
-**DeloitteSummerInternship**
+**Deloitte Summer Internship**
+
 Daikibo Telementry Data Analysis.
 
 Indentifying which factory and had defect machines through Tableau software.
