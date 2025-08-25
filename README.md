@@ -1,7 +1,7 @@
-**# DeloitteSummerInternship #**
+**DeloitteSummerInternship**
 Daikibo Telementry Data Analysis.
 
-Indentitfying which factory and had defect machines through **Tableau** software.
+Indentifying which factory and had defect machines through **Tableau** software.
 
 Get the database from the provided datasource file.
 
