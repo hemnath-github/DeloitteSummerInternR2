@@ -9,7 +9,7 @@ Tool :
 
 Get the database from the provided data source file.
 
-**hint : All datasets are cleaned from the given source.**
+**Hint : All datasets are cleaned from the given source.**
 
 Import datasets to Tableau and start the analysis
 
@@ -19,6 +19,6 @@ Import datasets to Tableau and start the analysis
 
 **Key Notes :**
 
-., **LaserCutter** and **LaserWelder** machine are least runned machine,
+(.) **LaserCutter** and **LaserWelder** machine are least runned machine,
 
-., **seiko** and **shenzhen factories** are been the defected machine haven factories.
+(.) **Seiko** and **Shenzhen factories** are been the defected machine haven factories.
