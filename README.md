@@ -10,7 +10,6 @@ Tool:
 
 Get the database from the provided data source file.
 
-
 **Hint : All datasets are cleaned from the given source.**
 
 Import datasets to Tableau and start the analysis;
