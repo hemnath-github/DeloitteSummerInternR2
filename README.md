@@ -16,7 +16,6 @@ Import datasets to Tableau and start the analysis;
 
 2, We had that calculated metrics to put the bar chart for which machine type and machine downtime period to get visual results of it. 
 
-
 **Key Notes :**
 
 (.) **LaserCutter** and **LaserWelder** machine are least runned machine,
