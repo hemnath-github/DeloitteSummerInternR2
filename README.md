@@ -20,4 +20,4 @@ Import datasets to Tableau and start the analysis;
 
 (.) **LaserCutter** and **LaserWelder** machine are least runned machine,
 
-(.) **Seiko** and **Shenzhen factories** are been the defected machine haven factories.
+(.) **Seiko** and **Shenzhen factories** are been the defected machines haven factories.
