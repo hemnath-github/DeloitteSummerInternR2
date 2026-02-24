@@ -6,7 +6,7 @@ Tool:
 
 **Tableau** - For Importing datasets, create Function or Metrics and Dashboard Creation.
 
-Get the database from the provided data source file.
+Get the data source file from the provided database.
 
 **Hint: All datasets are cleaned from the given source.**
 
