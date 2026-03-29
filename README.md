@@ -2,7 +2,7 @@
 
 Identifying which factory and had defect machines through Tableau software.
 
-Tool :
+Tool:
 
 **Tableau** - For Importing datasets, create Function or Metrics and Dashboard Creation.
 
