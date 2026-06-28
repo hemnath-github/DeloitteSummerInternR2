@@ -1,6 +1,6 @@
 **Daikibo Telementry Data Analysis.**
 
-Identifying which factory and had defect machines through Tableau software .
+Identifying which factory and had defect machines through Tableau software.
 
 Tool:
 
