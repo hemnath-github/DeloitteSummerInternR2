@@ -8,7 +8,7 @@ Tool:
 
 Get the data source file from the provided database.
 
-**Hint : All datasets are cleaned from the given source.**
+**Hint: All datasets are cleaned from the given source.**
 
 Import datasets to Tableau and start the analysis;
 
